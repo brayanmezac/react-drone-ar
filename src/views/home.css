@@ -19,7 +19,7 @@
   align-items: flex-start;
   border-radius: var(--dl-radius-radius-radius40);
   flex-direction: column;
-  backdrop-filter: saturate(200%) blur(0px);
+  backdrop-filter: saturate(200%) blur(1px);
   background-color: rgba(0, 1, 61, 0.016);
 }
 .home-text {
