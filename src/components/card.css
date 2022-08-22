@@ -11,7 +11,7 @@
   padding-top: 3rem;
   border-radius: var(--dl-radius-radius-radius40);
   flex-direction: column;
-  backdrop-filter: saturate(200%) blur(30px);
+  backdrop-filter: saturate(200%) blur(0px);
   background-color: rgba(0, 1, 61, 0.05);
 }
 .card-container {
